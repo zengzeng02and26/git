@@ -16,8 +16,5 @@ hhhhhh
 hhhhhh
 hhhhhh
 fffff
-<<<<<<< HEAD
-fffmast :
-=======
+fffmaster
 fff22222222222master
->>>>>>> hot-fix
